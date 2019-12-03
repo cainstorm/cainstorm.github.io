@@ -10,7 +10,7 @@ markdown:    kramdown
 
 # Disqus
 discus-identifier: cainstorm # add your discus identifier
-shortname: "cainstorm" 
+shortname: cainstorm-github-io
 
 gems:
   - jekyll-sitemap
