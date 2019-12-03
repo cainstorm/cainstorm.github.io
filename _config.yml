@@ -7,6 +7,10 @@ url: # add your custom site url (format: https://cainstorm.github.io)
 future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
+
+# Disqus
+discus-identifier: cainstorm # add your discus identifier
+
 gems:
   - jekyll-sitemap
   - jekyll-paginate
