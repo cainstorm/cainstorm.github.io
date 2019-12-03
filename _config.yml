@@ -9,7 +9,7 @@ highlighter: rouge
 markdown:    kramdown
 
 # Disqus
-discus-identifier: cainstorm # add your discus identifier
+discus-identifier: cainstorm-github-io # add your discus identifier
 shortname: cainstorm-github-io
 
 gems:
